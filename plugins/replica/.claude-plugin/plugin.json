@@ -1,0 +1,7 @@
+{
+  "name": "replica",
+  "version": "12.0.0",
+  "description": "Replica pack: 11 skills to map, plan, design, build, test, rebrand, launch and deploy your own version of an app.",
+  "author": { "name": "victorcorralsocial" },
+  "repository": "https://github.com/victorcorralsocial/skills-claude"
+}

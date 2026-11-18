@@ -1,0 +1,7 @@
+{
+  "name": "replica-marketplace",
+  "owner": { "name": "replica" },
+  "plugins": [
+    { "name": "replica", "source": "./plugins/replica", "description": "Replica pack: 11 skills (recon, architect, design, build, backend, test, diff, entrepreneur, brand, launch, deploy).", "version": "12.0.0" }
+  ]
+}
