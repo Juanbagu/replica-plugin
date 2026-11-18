@@ -17,6 +17,6 @@ Claude Code plugin with the 11 skills of the Replica pack (v12) by victorcorrals
 ## Install
 
 ```
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add Juanbagu/replica-plugin
 /plugin install replica@replica-marketplace
 ```
